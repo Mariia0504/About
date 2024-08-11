@@ -1,0 +1,34 @@
+/* Основні стилі для сторінки */
+body {
+  background-color: lightblue;
+}
+
+/* Стилі для заголовка */
+#dog-title {
+  color: white;
+  text-align: center;
+}
+
+/* Стилі для тексту */
+#dog-description {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+/* Стилі для посилань */
+.link {
+  color: #0000EE; /* Стандартний синій колір для посилань */
+  text-decoration: none;
+  font-size: 18px;
+  display: inline-block;
+  margin: 5px 0;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+/* Клас для центрування тексту */
+.centered-text {
+  text-align: center;
+}
